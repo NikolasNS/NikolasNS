@@ -11,4 +11,4 @@
   <a href="mailto:edunikxcamargo@gmail.com"><img src="https://camo.githubusercontent.com/3f3a28cce40a1f01e5420a4d35b62542b0d78e38f03fbb75746873b8b68a58df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 <div dir="auto"> 
 
-![neymar-psg](https://github.com/NikolasNS/NikolasNS/assets/170422076/4c1db85d-ed75-4801-977d-53cc05ecd3e2)
+![52b9a1f841b5dc733615eaa929837ac3](https://github.com/NikolasNS/NikolasNS/assets/170422076/70680929-9275-4f21-b654-1f4fd3d7947b)
